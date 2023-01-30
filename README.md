@@ -80,48 +80,6 @@ Follow](https://img.shields.io/twitter/follow/subhadeepzilong?color=1DA1F2&logo=
 
 ##
 
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadeepZilong&theme=algolia"
-        alt="SubhadeepZilong" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br />
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=SubhadeepZilong&show_icons=true&count_private=true&theme=algolia"
-            height="192px" /></a>
-    <br />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadeepZilong&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="SubhadeepZilong" height="192px" />
-    <br />
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
-    experience or skill level.
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-
-<a href="https://github.com/SubhadeepZilong"><img alt="SubhadeepZilong's Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=SubhadeepZilong&custom_title=SubhadeepZilong's%20Contribution%20Graph&theme=react-dark" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia"
-            alt="SubhadeepZilong" /></a> </p>
-
------
 Credits: [SubhadeepZilong](https://github.com/SubhadeepZilong)
 
 Last Edited on: 12/03/2022
