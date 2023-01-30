@@ -4,7 +4,7 @@
 ##
 
 <a href="https://git.io/typing-svg"><img align="center"
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=34F713&background=B2FF1100&center=true&width=435&lines=Code!+Code!+Code!;Web+Development;Cybersecurity" ></a>
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=34F713&background=B2FF1100&center=false&width=435&lines=Code!+Code!+Code!;Web+Development;Cybersecurity" ></a>
 
 <p><img align="right"
         src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif"
