@@ -32,7 +32,7 @@
             alt="subhadeepchakraborty555" height="30" width="40" /></a>
 </p>
 
-## <img src="https://media4.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=790b7611e959f5c3ef255723f0b8a25b9612355ac52cea38&rid=giphy.gif&ct=g" width="100px"> Programming Languages
+##  Programming Languages
 <p align="left">
 
 <p align="left"> <img
