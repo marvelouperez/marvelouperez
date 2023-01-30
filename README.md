@@ -2,7 +2,7 @@
 <h3 align="center">I'm an Aspiring Cybersecurity Specialist, Web Developer and Student from Philippines</h3>
 
 <a href="https://git.io/typing-svg"><img align="center"
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity;Web+Development;PHP" ></a>
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity;Web+Development" ></a>
 
 <p><img align="right"
         src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif"
@@ -30,7 +30,13 @@
 <p align="left">
 
 <p align="left">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" width="50px" /></p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" width="50px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px" width="50px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50px" width="50px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50px" width="50px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px"/>
+          </p>
 
           
 
