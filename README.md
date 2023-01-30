@@ -30,9 +30,9 @@
 <p align="left">
 
 <p align="left">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-            
-          </p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30px" width="30px" /></p>
+
+          
 
 ##
 
