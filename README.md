@@ -30,10 +30,9 @@
 <p align="left">
 
 <p align="left">
-
-<i class="programming lang-ruby"></i>
-
-</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            
+          </p>
 
 ##
 
