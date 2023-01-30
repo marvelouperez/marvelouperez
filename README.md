@@ -1,13 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Juhn Marvelou Perez</h1>
 <h3 align="center">I'm an Aspiring Cybersecurity Specialist, Web Developer and Student from Philippines</h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat"
-        alt="subhadeepzilong" /> </p>
-
-
 <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity;Web+Development;PHP"></a>
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity;Web+Development;PHP" style="text-align: center"></a>
 
 <p><img align="right"
         src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif"
