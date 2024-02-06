@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Juhn Marvelou Perez</h1>
-<h3 align="center">I'm an Aspiring Cybersecurity Specialist, Web Developer and Student from Philippines | PUP MANILA</h3>
+<h3 align="center">I'm an Aspiring Cybersecurity Specialist, Web Developer</h3>
 
 ##
 
