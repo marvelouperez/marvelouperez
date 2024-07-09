@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Juhn Marvelou Perez</h1>
 <h3 align="center">I'm an Aspiring Cybersecurity Specialist, Currently Web Developer</h3>
 
+<script src="https://tryhackme.com/badge/906681"></script>
+
 ##
 
 <a href="https://git.io/typing-svg"><img align="center"
