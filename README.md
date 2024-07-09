@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Juhn Marvelou Perez</h1>
 <h3 align="center">I'm an Aspiring Cybersecurity Specialist, Currently Web Developer</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/marvsmarvs.png" alt="TryHackMe">
-##
 
 <a href="https://git.io/typing-svg"><img align="center"
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=34F713&background=B2FF1100&center=false&width=435&lines=Code!+Code!+Code!;Web+Development;Cybersecurity" ></a>
